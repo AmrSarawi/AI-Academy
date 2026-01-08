@@ -7,7 +7,7 @@ It offers a modern, interactive, and user-friendly interface for students to acc
 **Technologies used:**  
 - **Frontend:** Angular  
 - **Backend:** Spring Framework (Spring Boot, Spring MVC, etc.)  
-- **Database:** [Specify your DB, e.g., MySQL, PostgreSQL]  
+- **Database:** PostgreSQL 
 
 ## How to Contribute
 1. Fork or clone the repository.
