@@ -1,0 +1,3 @@
+com\aiacademy\backend\BackendApplication.class
+com\aiacademy\backend\config\WebConfig.class
+com\aiacademy\backend\controller\CourseController.class

@@ -1,0 +1,10 @@
+C:\Users\AZ\Documents\ai_academy\backend\src\main\java\com\aiacademy\backend\BackendApplication.java
+C:\Users\AZ\Documents\ai_academy\backend\src\main\java\com\aiacademy\backend\config\WebConfig.java
+C:\Users\AZ\Documents\ai_academy\backend\src\main\java\com\aiacademy\backend\controller\CourseController.java
+C:\Users\AZ\Documents\ai_academy\backend\src\main\java\com\aiacademy\backend\dto\CourseDTO.java
+C:\Users\AZ\Documents\ai_academy\backend\src\main\java\com\aiacademy\backend\dto\CreateCourseRequest.java
+C:\Users\AZ\Documents\ai_academy\backend\src\main\java\com\aiacademy\backend\exception\CourseNotFoundException.java
+C:\Users\AZ\Documents\ai_academy\backend\src\main\java\com\aiacademy\backend\exception\GlobalExceptionHandler.java
+C:\Users\AZ\Documents\ai_academy\backend\src\main\java\com\aiacademy\backend\model\Course.java
+C:\Users\AZ\Documents\ai_academy\backend\src\main\java\com\aiacademy\backend\repository\CourseRepository.java
+C:\Users\AZ\Documents\ai_academy\backend\src\main\java\com\aiacademy\backend\service\CourseService.java
